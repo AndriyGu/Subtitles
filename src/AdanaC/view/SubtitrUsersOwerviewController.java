@@ -157,7 +157,7 @@ public class SubtitrUsersOwerviewController {
 
         System.out.println("Subtitl.size= "+subtitl.size()+"        file name is "+nameSubtitleLabel.getText());
 
-        mainApp.set
+//        mainApp.set
 
     mainApp.showWordOverview();
     }
